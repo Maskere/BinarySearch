@@ -16,7 +16,6 @@
             }
         }
 
-        // two-pointers-approach
         public static int binarySearch(List<int> nums, int low, int high, int target) {
             while(low <= high){
                 int mid = low + ((high - low)/2);
