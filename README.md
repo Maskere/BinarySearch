@@ -24,4 +24,4 @@ arr[left] + arr[right] > target: Decrease the pair sum by moving the right point
 arr[left] + arr[right] = target: We have found a pair whose sum is equal to target. We can find the product of the count
 of both the elements and add them to the result.
 
-These definition is provided by: https://www.geeksforgeeks.org
+These definitions is provided by: https://www.geeksforgeeks.org
