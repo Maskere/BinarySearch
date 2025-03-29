@@ -14,7 +14,7 @@ def binarySearch(collection,low,high,target):
 nums = [-7,1,2,7,3,1,-9,-45,-12]
 nums.sort()
 
-target = -7
+target = 7
 low = 0 #want to search from index 0
 high = len(nums) - 1 #want to search to the last index
 
